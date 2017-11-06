@@ -1,0 +1,213 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+Sun Dec 15 11:24:01 MST 2013
+input number: 9
+master 1
+master 2
+master 3
+master 4
+Master is sending rowa to process 1
+Master has sent rowa to process 1
+Process 1 received rowa = 2048
+Master is sending rowa to process 2
+Master has sent rowa to process 2
+Master is sending rowa to process 3
+Master has sent rowa to process 3
+Process 2 received rowa = 2048
+Process 3 received rowa = 2048
+Master is sending rowa to process 4
+Master has sent rowa to process 4
+Master is sending rowa to process 5
+Process 4 received rowa = 2048
+Master has sent rowa to process 5
+Master is sending rowa to process 6
+Process 5 received rowa = 2048
+Master has sent rowa to process 6
+Master is sending rowa to process 7
+Master has sent rowa to process 7
+Master is sending rowa to process 8
+Master has sent rowa to process 8
+Master is sending rowa to process 9
+Master has sent rowa to process 9
+Master is sending rowa to process 10
+Master has sent rowa to process 10
+Master is sending rowa to process 11
+Master has sent rowa to process 11
+Master is sending rowa to process 12
+Master has sent rowa to process 12
+Master is sending rowa to process 13
+Process 6 received rowa = 2048
+Master has sent rowa to process 13
+Master is sending rowa to process 14
+Master has sent rowa to process 14
+Master is sending rowa to process 15
+Master has sent rowa to process 15
+Master is sending cola to process 1
+Master has sent cola to process 1
+Master is sending cola to process 2
+Master has sent cola to process 2
+Master is sending cola to process 3
+Master has sent cola to process 3
+Master is sending cola to process 4
+Master has sent cola to process 4
+Master is sending cola to process 5
+Master has sent cola to process 5
+Master is sending cola to process 6
+Process 7 received rowa = 2048
+Process 8 received rowa = 2048
+Process 10 received rowa = 2048
+Process 11 received rowa = 2048
+Master has sent cola to process 6
+Master is sending cola to process 7
+Master has sent cola to process 7
+Master is sending cola to process 8
+Master has sent cola to process 8
+Master is sending cola to process 9
+Master has sent cola to process 9
+Master is sending cola to process 10
+Master has sent cola to process 10
+Master is sending cola to process 11
+Master has sent cola to process 11
+Process 4 received cola = 2048
+Process 5 received cola = 2048
+Process 5 received a
+Process 7 received cola = 2048
+Process 7 received a
+Process 8 received cola = 2048
+Process 8 received a
+Process 13 received rowa = 2048
+Master is sending cola to process 12
+Master has sent cola to process 12
+Master is sending cola to process 13
+Master has sent cola to process 13
+Master is sending cola to process 14
+Master has sent cola to process 14
+Master is sending cola to process 15
+Master has sent cola to process 15
+Master is sending a to process 1
+Process 1 received cola = 2048
+Process 1 received a
+Process 2 received cola = 2048
+Process 3 received cola = 2048
+Process 4 received a
+Process 10 received cola = 2048
+Process 10 received a
+Process 11 received cola = 2048
+Process 11 received a
+Process 14 received rowa = 2048
+Process 15 received rowa = 2048
+Process 2 received a
+Process 3 received a
+Process 14 received cola = 2048
+Process 15 received cola = 2048
+Process 14 received a
+Process 15 received a
+Process 12 received rowa = 2048
+Process 12 received cola = 2048
+Process 12 received a
+Process 6 received cola = 2048
+Process 6 received a
+Process 13 received cola = 2048
+Process 13 received a
+Process 9 received rowa = 2048
+Process 9 received cola = 2048
+Process 9 received a
+Master has sent cola to process 1
+Master is sending a to process 2
+Process 1 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 2
+Master is sending a to process 3
+Process 2 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 3
+Master is sending a to process 4
+Master has sent cola to process 4
+Master is sending a to process 5
+Process 3 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Process 4 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 5
+Master is sending a to process 6
+Process 5 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 6
+Master is sending a to process 7
+Process 6 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 7
+Master is sending a to process 8
+Process 7 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 8
+Master is sending a to process 9
+Process 8 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 9
+Master is sending a to process 10
+Master has sent cola to process 10
+Master is sending a to process 11
+Process 9 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Process 10 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 11
+Master is sending a to process 12
+Process 11 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 12
+Master is sending a to process 13
+Process 12 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 13
+Master is sending a to process 14
+Process 13 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 14
+Master is sending a to process 15
+Process 14 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 15
+number of singular values: 2048
+Process 15 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Process 0 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+
+
+numNodes = 16, exeTimeInMSeconds = 26705
+
+
+Process 11: dluv Result: i=2046
+
+Process 6: dluv Result: i=2046
+
+Process 8: dluv Result: i=2046
+
+Process 10: dluv Result: i=2046
+
+Process 7: dluv Result: i=2046
+
+Process 4: dluv Result: i=2046
+
+Process 5: dluv Result: i=2046
+
+Process 9: dluv Result: i=2046
+
+Process 1: dluv Result: i=2046
+
+Process 2: dluv Result: i=2046
+
+Process 15: dluv Result: i=2046
+
+Process 3: dluv Result: i=2046
+
+Process 12: dluv Result: i=2046
+
+Process 14: dluv Result: i=2046
+
+Process 13: dluv Result: i=2046
+
+Process 0: dluv Result: i=2046
+Sun Dec 15 11:26:23 MST 2013

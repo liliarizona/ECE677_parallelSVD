@@ -1,0 +1,7 @@
+[dropboxDirectory]\\Project_Shared\\serialCode\\svd\\bin\\Debug\\svd.exe [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\inputMatrices\\inputMatrix.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\outLeftMatrix.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\outRightMatrix.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\outSingularValue.txt [dimensionConstraint] [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\reducedRightMatrix.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\simMatrix.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\markUS.txt [dropboxDirectory]\\Project_Shared\\serialCode\\svd\\data\\outputMatrices\\markSV.txt
+
+
+
+1. replace [dropboxDirectory] with your dropbox folder directory
+2. replace [dimensionConstraint] with positive integer, e.g. 2, 100, 400, 10000000.....
+3. copy the replaced command line to cmd and hit enter....

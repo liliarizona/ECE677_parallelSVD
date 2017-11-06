@@ -1,0 +1,689 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+Sun Dec 15 11:14:42 MST 2013
+input number: 9
+master 1
+master 2
+master 3
+master 4
+Master is sending rowa to process 1
+Master has sent rowa to process 1
+Master is sending rowa to process 2
+Master has sent rowa to process 2
+Master is sending rowa to process 3
+Master has sent rowa to process 3
+Master is sending rowa to process 4
+Master has sent rowa to process 4
+Master is sending rowa to process 5
+Master has sent rowa to process 5
+Master is sending rowa to process 6
+Master has sent rowa to process 6
+Master is sending rowa to process 7
+Master has sent rowa to process 7
+Master is sending rowa to process 8
+Master has sent rowa to process 8
+Master is sending rowa to process 9
+Master has sent rowa to process 9
+Master is sending rowa to process 10
+Master has sent rowa to process 10
+Master is sending rowa to process 11
+Master has sent rowa to process 11
+Master is sending rowa to process 12
+Master has sent rowa to process 12
+Master is sending rowa to process 13
+Master has sent rowa to process 13
+Master is sending rowa to process 14
+Master has sent rowa to process 14
+Master is sending rowa to process 15
+Master has sent rowa to process 15
+Master is sending rowa to process 16
+Master has sent rowa to process 16
+Master is sending rowa to process 17
+Master has sent rowa to process 17
+Master is sending rowa to process 18
+Master has sent rowa to process 18
+Master is sending rowa to process 19
+Master has sent rowa to process 19
+Master is sending rowa to process 20
+Master has sent rowa to process 20
+Master is sending rowa to process 21
+Master has sent rowa to process 21
+Master is sending rowa to process 22
+Master has sent rowa to process 22
+Master is sending rowa to process 23
+Master has sent rowa to process 23
+Master is sending rowa to process 24
+Master has sent rowa to process 24
+Master is sending rowa to process 25
+Master has sent rowa to process 25
+Master is sending rowa to process 26
+Master has sent rowa to process 26
+Master is sending rowa to process 27
+Process 2 received rowa = 2048
+Process 3 received rowa = 2048
+Process 5 received rowa = 2048
+Process 6 received rowa = 2048
+Process 8 received rowa = 2048
+Process 9 received rowa = 2048
+Process 11 received rowa = 2048
+Process 7 received rowa = 2048
+Process 13 received rowa = 2048
+Process 14 received rowa = 2048
+Process 15 received rowa = 2048
+Process 16 received rowa = 2048
+Process 17 received rowa = 2048
+Process 18 received rowa = 2048
+Process 20 received rowa = 2048
+Process 21 received rowa = 2048
+Process 23 received rowa = 2048
+Process 24 received rowa = 2048
+Process 12 received rowa = 2048
+Process 25 received rowa = 2048
+Process 26 received rowa = 2048
+Process 19 received rowa = 2048
+Process 4 received rowa = 2048
+Process 1 received rowa = 2048
+Process 10 received rowa = 2048
+Process 22 received rowa = 2048
+Master has sent rowa to process 27
+Master is sending rowa to process 28
+Master has sent rowa to process 28
+Master is sending rowa to process 29
+Master has sent rowa to process 29
+Master is sending rowa to process 30
+Master has sent rowa to process 30
+Master is sending rowa to process 31
+Master has sent rowa to process 31
+Master is sending rowa to process 32
+Master has sent rowa to process 32
+Master is sending rowa to process 33
+Master has sent rowa to process 33
+Master is sending rowa to process 34
+Master has sent rowa to process 34
+Master is sending rowa to process 35
+Master has sent rowa to process 35
+Master is sending rowa to process 36
+Master has sent rowa to process 36
+Master is sending rowa to process 37
+Master has sent rowa to process 37
+Master is sending rowa to process 38
+Master has sent rowa to process 38
+Master is sending rowa to process 39
+Master has sent rowa to process 39
+Master is sending rowa to process 40
+Master has sent rowa to process 40
+Master is sending rowa to process 41
+Master has sent rowa to process 41
+Master is sending rowa to process 42
+Master has sent rowa to process 42
+Master is sending rowa to process 43
+Master has sent rowa to process 43
+Master is sending rowa to process 44
+Master has sent rowa to process 44
+Master is sending rowa to process 45
+Master has sent rowa to process 45
+Master is sending rowa to process 46
+Master has sent rowa to process 46
+Master is sending rowa to process 47
+Master has sent rowa to process 47
+Master is sending rowa to process 48
+Master has sent rowa to process 48
+Master is sending rowa to process 49
+Master has sent rowa to process 49
+Master is sending rowa to process 50
+Process 27 received rowa = 2048
+Process 28 received rowa = 2048
+Process 29 received rowa = 2048
+Process 30 received rowa = 2048
+Process 32 received rowa = 2048
+Process 33 received rowa = 2048
+Master has sent rowa to process 50
+Master is sending rowa to process 51
+Master has sent rowa to process 51
+Master is sending rowa to process 52
+Master has sent rowa to process 52
+Master is sending rowa to process 53
+Master has sent rowa to process 53
+Master is sending rowa to process 54
+Master has sent rowa to process 54
+Master is sending rowa to process 55
+Master has sent rowa to process 55
+Master is sending rowa to process 56
+Master has sent rowa to process 56
+Master is sending rowa to process 57
+Master has sent rowa to process 57
+Master is sending rowa to process 58
+Master has sent rowa to process 58
+Master is sending rowa to process 59
+Master has sent rowa to process 59
+Master is sending rowa to process 60
+Master has sent rowa to process 60
+Master is sending rowa to process 61
+Master has sent rowa to process 61
+Master is sending rowa to process 62
+Master has sent rowa to process 62
+Master is sending rowa to process 63
+Process 31 received rowa = 2048
+Process 35 received rowa = 2048
+Process 37 received rowa = 2048
+Process 38 received rowa = 2048
+Process 39 received rowa = 2048
+Process 40 received rowa = 2048
+Process 41 received rowa = 2048
+Process 42 received rowa = 2048
+Process 44 received rowa = 2048
+Process 45 received rowa = 2048
+Process 47 received rowa = 2048
+Master has sent rowa to process 63
+Master is sending cola to process 1
+Master has sent cola to process 1
+Master is sending cola to process 2
+Master has sent cola to process 2
+Master is sending cola to process 3
+Master has sent cola to process 3
+Master is sending cola to process 4
+Master has sent cola to process 4
+Master is sending cola to process 5
+Master has sent cola to process 5
+Master is sending cola to process 6
+Master has sent cola to process 6
+Master is sending cola to process 7
+Master has sent cola to process 7
+Master is sending cola to process 8
+Master has sent cola to process 8
+Master is sending cola to process 9
+Master has sent cola to process 9
+Master is sending cola to process 10
+Master has sent cola to process 10
+Master is sending cola to process 11
+Master has sent cola to process 11
+Master is sending cola to process 12
+Master has sent cola to process 12
+Master is sending cola to process 13
+Master has sent cola to process 13
+Master is sending cola to process 14
+Master has sent cola to process 14
+Master is sending cola to process 15
+Master has sent cola to process 15
+Master is sending cola to process 16
+Master has sent cola to process 16
+Master is sending cola to process 17
+Master has sent cola to process 17
+Master is sending cola to process 18
+Master has sent cola to process 18
+Master is sending cola to process 19
+Master has sent cola to process 19
+Process 1 received cola = 2048
+Process 1 received a
+Process 6 received cola = 2048
+Process 6 received a
+Process 8 received cola = 2048
+Process 8 received a
+Process 9 received cola = 2048
+Process 9 received a
+Process 49 received rowa = 2048
+Process 50 received rowa = 2048
+Process 51 received rowa = 2048
+Process 52 received rowa = 2048
+Process 53 received rowa = 2048
+Process 54 received rowa = 2048
+Process 55 received rowa = 2048
+Process 56 received rowa = 2048
+Process 57 received rowa = 2048
+Process 59 received rowa = 2048
+Master is sending cola to process 20
+Master has sent cola to process 20
+Master is sending cola to process 21
+Master has sent cola to process 21
+Master is sending cola to process 22
+Master has sent cola to process 22
+Master is sending cola to process 23
+Master has sent cola to process 23
+Master is sending cola to process 24
+Master has sent cola to process 24
+Master is sending cola to process 25
+Master has sent cola to process 25
+Master is sending cola to process 26
+Master has sent cola to process 26
+Master is sending cola to process 27
+Master has sent cola to process 27
+Master is sending cola to process 28
+Master has sent cola to process 28
+Master is sending cola to process 29
+Master has sent cola to process 29
+Master is sending cola to process 30
+Master has sent cola to process 30
+Master is sending cola to process 31
+Master has sent cola to process 31
+Master is sending cola to process 32
+Master has sent cola to process 32
+Master is sending cola to process 33
+Master has sent cola to process 33
+Master is sending cola to process 34
+Master has sent cola to process 34
+Master is sending cola to process 35
+Master has sent cola to process 35
+Master is sending cola to process 36
+Master has sent cola to process 36
+Master is sending cola to process 37
+Master has sent cola to process 37
+Master is sending cola to process 38
+Master has sent cola to process 38
+Master is sending cola to process 39
+Master has sent cola to process 39
+Master is sending cola to process 40
+Master has sent cola to process 40
+Master is sending cola to process 41
+Master has sent cola to process 41
+Process 4 received cola = 2048
+Process 4 received a
+Process 5 received cola = 2048
+Process 5 received a
+Process 11 received cola = 2048
+Process 11 received a
+Process 14 received cola = 2048
+Process 14 received a
+Process 15 received cola = 2048
+Process 15 received a
+Process 16 received cola = 2048
+Process 16 received a
+Process 17 received cola = 2048
+Process 17 received a
+Process 18 received cola = 2048
+Process 18 received a
+Process 20 received cola = 2048
+Process 20 received a
+Process 21 received cola = 2048
+Process 21 received a
+Process 23 received cola = 2048
+Process 23 received a
+Process 32 received cola = 2048
+Process 32 received a
+Process 61 received rowa = 2048
+Master is sending cola to process 42
+Master has sent cola to process 42
+Master is sending cola to process 43
+Master has sent cola to process 43
+Master is sending cola to process 44
+Master has sent cola to process 44
+Master is sending cola to process 45
+Master has sent cola to process 45
+Master is sending cola to process 46
+Master has sent cola to process 46
+Master is sending cola to process 47
+Master has sent cola to process 47
+Master is sending cola to process 48
+Master has sent cola to process 48
+Master is sending cola to process 49
+Master has sent cola to process 49
+Master is sending cola to process 50
+Master has sent cola to process 50
+Master is sending cola to process 51
+Master has sent cola to process 51
+Master is sending cola to process 52
+Master has sent cola to process 52
+Master is sending cola to process 53
+Master has sent cola to process 53
+Master is sending cola to process 54
+Master has sent cola to process 54
+Master is sending cola to process 55
+Master has sent cola to process 55
+Master is sending cola to process 56
+Master has sent cola to process 56
+Master is sending cola to process 57
+Master has sent cola to process 57
+Master is sending cola to process 58
+Master has sent cola to process 58
+Master is sending cola to process 59
+Master has sent cola to process 59
+Master is sending cola to process 60
+Master has sent cola to process 60
+Master is sending cola to process 61
+Master has sent cola to process 61
+Master is sending cola to process 62
+Master has sent cola to process 62
+Master is sending cola to process 63
+Master has sent cola to process 63
+Master is sending a to process 1
+Process 2 received cola = 2048
+Process 2 received a
+Process 3 received cola = 2048
+Process 3 received a
+Process 13 received cola = 2048
+Process 13 received a
+Process 25 received cola = 2048
+Process 25 received a
+Process 26 received cola = 2048
+Process 26 received a
+Process 29 received cola = 2048
+Process 29 received a
+Process 30 received cola = 2048
+Process 30 received a
+Process 33 received cola = 2048
+Process 33 received a
+Process 35 received cola = 2048
+Process 35 received a
+Process 40 received cola = 2048
+Process 40 received a
+Process 41 received cola = 2048
+Process 41 received a
+Process 43 received rowa = 2048
+Process 44 received cola = 2048
+Process 44 received a
+Process 45 received cola = 2048
+Process 45 received a
+Process 47 received cola = 2048
+Process 47 received a
+Process 54 received cola = 2048
+Process 54 received a
+Process 56 received cola = 2048
+Process 56 received a
+Process 57 received cola = 2048
+Process 57 received a
+Process 62 received rowa = 2048
+Process 63 received rowa = 2048
+Process 7 received cola = 2048
+Process 7 received a
+Process 27 received cola = 2048
+Process 27 received a
+Process 28 received cola = 2048
+Process 28 received a
+Process 39 received cola = 2048
+Process 39 received a
+Process 42 received cola = 2048
+Process 42 received a
+Process 50 received cola = 2048
+Process 50 received a
+Process 52 received cola = 2048
+Process 52 received a
+Process 53 received cola = 2048
+Process 53 received a
+Process 59 received cola = 2048
+Process 59 received a
+Process 19 received cola = 2048
+Process 19 received a
+Process 48 received rowa = 2048
+Process 48 received cola = 2048
+Process 48 received a
+Process 62 received cola = 2048
+Process 62 received a
+Process 63 received cola = 2048
+Process 63 received a
+Process 38 received cola = 2048
+Process 38 received a
+Process 51 received cola = 2048
+Process 51 received a
+Process 55 received cola = 2048
+Process 55 received a
+Process 43 received cola = 2048
+Process 43 received a
+Process 60 received rowa = 2048
+Process 60 received cola = 2048
+Process 60 received a
+Process 12 received cola = 2048
+Process 12 received a
+Process 24 received cola = 2048
+Process 24 received a
+Process 31 received cola = 2048
+Process 31 received a
+Process 36 received rowa = 2048
+Process 36 received cola = 2048
+Process 36 received a
+Process 46 received rowa = 2048
+Process 46 received cola = 2048
+Process 49 received cola = 2048
+Process 49 received a
+Process 61 received cola = 2048
+Process 61 received a
+Process 37 received cola = 2048
+Process 37 received a
+Process 46 received a
+Process 34 received rowa = 2048
+Process 34 received cola = 2048
+Process 34 received a
+Process 22 received cola = 2048
+Process 22 received a
+Process 10 received cola = 2048
+Process 10 received a
+Process 58 received rowa = 2048
+Process 58 received cola = 2048
+Process 58 received a
+Master has sent cola to process 1
+Master is sending a to process 2
+Process 1 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 2
+Master is sending a to process 3
+Process 2 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 3
+Master is sending a to process 4
+Process 3 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 4
+Master is sending a to process 5
+Process 4 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 5
+Master is sending a to process 6
+Process 5 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 6
+Master is sending a to process 7
+Process 6 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 7
+Master is sending a to process 8
+Process 7 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 8
+Master is sending a to process 9
+Process 8 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 9
+Master is sending a to process 10
+Process 9 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 10
+Master is sending a to process 11
+Process 10 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 11
+Master is sending a to process 12
+Process 11 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 12
+Master is sending a to process 13
+Process 12 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 13
+Master is sending a to process 14
+Process 13 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 14
+Master is sending a to process 15
+Process 14 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 15
+Master is sending a to process 16
+Process 15 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 16
+Master is sending a to process 17
+Process 16 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 17
+Master is sending a to process 18
+Process 17 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 18
+Master is sending a to process 19
+Process 18 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 19
+Master is sending a to process 20
+Process 19 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 20
+Master is sending a to process 21
+Process 20 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 21
+Master is sending a to process 22
+Process 21 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 22
+Master is sending a to process 23
+Process 22 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 23
+Master is sending a to process 24
+Process 23 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 24
+Master is sending a to process 25
+Process 24 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 25
+Master is sending a to process 26
+Process 25 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 26
+Master is sending a to process 27
+Process 26 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 27
+Master is sending a to process 28
+Process 27 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 28
+Master is sending a to process 29
+Process 28 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 29
+Master is sending a to process 30
+Process 29 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 30
+Master is sending a to process 31
+Process 30 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 31
+Master is sending a to process 32
+Process 31 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 32
+Master is sending a to process 33
+Process 32 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 33
+Master is sending a to process 34
+Process 33 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 34
+Master is sending a to process 35
+Process 34 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 35
+Master is sending a to process 36
+Process 35 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 36
+Master is sending a to process 37
+Process 36 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 37
+Master is sending a to process 38
+Process 37 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 38
+Master is sending a to process 39
+Process 38 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 39
+Master is sending a to process 40
+Process 39 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 40
+Master is sending a to process 41
+Process 40 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 41
+Master is sending a to process 42
+Process 41 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 42
+Master is sending a to process 43
+Process 42 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 43
+Master is sending a to process 44
+Process 43 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 44
+Master is sending a to process 45
+Process 44 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 45
+Master is sending a to process 46
+Process 45 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 46
+Master is sending a to process 47
+Process 46 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 47
+Master is sending a to process 48
+Process 47 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 48
+Master is sending a to process 49
+Process 48 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 49
+Master is sending a to process 50
+Process 49 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 50
+Master is sending a to process 51
+Process 50 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 51
+Master is sending a to process 52
+Process 51 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 52
+Master is sending a to process 53
+Process 52 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 53
+Master is sending a to process 54
+Process 53 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 54
+Master is sending a to process 55
+Process 54 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 55
+Master is sending a to process 56
+Process 55 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 56
+Master is sending a to process 57
+Process 56 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 57
+Master is sending a to process 58
+Process 57 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 58
+Master is sending a to process 59
+Process 58 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Master has sent cola to process 59
+Master is sending a to process 60
+Process 59 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+Terminated
+Ctrl-C caught... cleaning up processes
+[press Ctrl-C again to force abort]

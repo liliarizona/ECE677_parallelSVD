@@ -1,0 +1,8 @@
+=>> PBS: job killed: mem 3240656kb exceeded limit 2097152kb
+[proxy:0:0@htc70] HYDT_dmxu_poll_wait_for_event (./tools/demux/demux_poll.c:70): assert (!(pollfds[i].revents & ~POLLIN & ~POLLOUT & ~POLLHUP)) failed
+[proxy:0:0@htc70] main (./pm/pmiserv/pmip.c:387): demux engine error waiting for event
+Terminated
+[mpiexec@htc70] HYDT_bscu_wait_for_completion (./tools/bootstrap/utils/bscu_wait.c:101): one of the processes terminated badly; aborting
+[mpiexec@htc70] HYDT_bsci_wait_for_completion (./tools/bootstrap/src/bsci_wait.c:18): bootstrap device returned error waiting for completion
+[mpiexec@htc70] HYD_pmci_wait_for_completion (./pm/pmiserv/pmiserv_pmci.c:521): bootstrap server returned error waiting for completion
+[mpiexec@htc70] main (./ui/mpich/mpiexec.c:548): process manager error waiting for completion

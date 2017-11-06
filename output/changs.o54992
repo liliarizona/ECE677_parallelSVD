@@ -1,0 +1,57 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+Sun Dec 15 10:59:22 MST 2013
+input number: 9
+master 1
+master 2
+master 3
+master 4
+Master is sending rowa to process 1
+Master has sent rowa to process 1
+Master is sending rowa to process 2
+Master has sent rowa to process 2
+Master is sending rowa to process 3
+Master has sent rowa to process 3
+Master is sending cola to process 1
+Master has sent cola to process 1
+Master is sending cola to process 2
+Master has sent cola to process 2
+Master is sending cola to process 3
+Master has sent cola to process 3
+Master is sending a to process 1
+Process 1 received rowa = 1024
+Process 1 received cola = 1024
+Process 1 received a
+Process 2 received rowa = 1024
+Process 2 received cola = 1024
+Process 2 received a
+Process 3 received rowa = 1024
+Process 3 received cola = 1024
+Process 3 received a
+Master has sent cola to process 1
+Master is sending a to process 2
+Process 1 before calling dluav, cola = 1024, rowa = 1024, ks = 1025
+m: 1025
+Master has sent cola to process 2
+Master is sending a to process 3
+Process 2 before calling dluav, cola = 1024, rowa = 1024, ks = 1025
+m: 1025
+Master has sent cola to process 3
+number of singular values: 1024
+Process 0 before calling dluav, cola = 1024, rowa = 1024, ks = 1025
+m: 1025
+Process 3 before calling dluav, cola = 1024, rowa = 1024, ks = 1025
+m: 1025
+
+
+numNodes = 4, exeTimeInMSeconds = 1949
+
+
+Process 1: dluv Result: i=1022
+
+Process 2: dluv Result: i=1022
+
+Process 3: dluv Result: i=1022
+
+Process 0: dluv Result: i=1022
+Sun Dec 15 10:59:30 MST 2013

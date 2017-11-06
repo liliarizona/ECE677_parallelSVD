@@ -1,0 +1,18 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+Sun Dec 15 11:12:40 MST 2013
+input number: 9
+master 1
+master 2
+master 3
+master 4
+number of singular values: 2048
+Process 0 before calling dluav, cola = 2048, rowa = 2048, ks = 2049
+m: 2049
+
+
+numNodes = 1, exeTimeInMSeconds = 13267
+
+
+Process 0: dluv Result: i=2046
+Sun Dec 15 11:13:54 MST 2013
